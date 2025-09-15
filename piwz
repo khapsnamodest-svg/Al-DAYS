@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Untuk Ibu Tercinta</title>
+    <style>
+        body {
+            background-color: #fff3f3;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+        }
+        h1 {
+            color: #e91e63;
+        }
+        p {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Selamat Hari Ibu!</h1>
+    <p>Ibu adalah wanita terhebat dalam hidupku.</p>
+    <p>Terima kasih atas kasih sayang dan pengorbananmu.</p>
+    <p>Aku sayang Ibu! ❤️</p>
+</body>
+</html>
